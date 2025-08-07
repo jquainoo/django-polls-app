@@ -3,7 +3,7 @@
 
 This repository contains my progress through the Django tutorial from the official Django documentation.
 
-## About
+## About - WEB-067
 This project is a basic poll application following the [Django Tutorial](https://docs.djangoproject.com/en/5.2/intro/tutorial01/).
 
 ## Features
